@@ -1,4 +1,11 @@
-SRV Router
+EDIT
+===========
+For for ecs cluster
+
+Original README
+===========================
+
+SRV Router 
 ==========
 
 This is a small project to provide a way to use nginx and Lua (through [OpenResty](http://openresty.org/)) to balance traffic between instances providing HTTP services in a cluster with a service discovery DNS API. 
